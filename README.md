@@ -1,4 +1,4 @@
-Gút mô ning (Good morning) 😛 <br/><br/>
+Gút mít nai (Good midnight) 😛 <br/><br/>
 
 Something about me:
 
