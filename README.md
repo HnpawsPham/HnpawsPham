@@ -1,10 +1,10 @@
 Gút mô ning (Good morning) 😛 <br/><br/>
 
-Something about me:<br/><br/><br/><br/>
+Something about me:
 
-- 💻 I'm a student with a passion for coding<br/><br/>
-- 📈 I’m currently learning Blender and Unreal Engine<br/><br/>
-- 🌇 I love darkness (coding at midnight for example)<br/><br/>
+- 💻 I'm a student with a passion for coding
+- 📈 I’m currently learning Blender and Unreal Engine
+- 🌇 I love darkness (coding at midnight for example)
 - 👩 I'm female, 14 y/o<br/><br/>
 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
