@@ -5,7 +5,8 @@ Something about me:
 - 💻 I'm a student with a passion for coding
 - 📈 I’m currently learning Blender and Unreal Engine
 - 🌇 I love darkness (coding at midnight for example)
-- 👩 I'm female, 14 y/o<br/><br/>
+- 👩 I'm female, 14 y/o
+- 💓 I started coding from around Sep 2022<br/><br/>
 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 
