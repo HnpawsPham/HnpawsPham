@@ -1,4 +1,4 @@
-Gút mít nai (Good midnight) 😛 <br/><br/>
+❤🎧🎶💻 <br/><br/>
 
 - 💻 I'm a student with a passion for coding
 - 📈 I’m currently learning CP
