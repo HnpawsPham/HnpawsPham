@@ -1,9 +1,9 @@
 ❤🎧🎶💻 <br/><br/>
 
-- 💻 I'm a student with a passion for coding
-- 📈 I’m currently learning CP
-- 🌇 Coding at midnight
-- 💓 Started coding from around Sep 2022<br/><br/>
+- 🏫 Studying: at Trinh Hoai Duc High School
+- 📈 Currently learning: CP & NodeJS & Data Analytics
+- 🌇 Online: midnight
+- 💓 Started coding: around Sep 2022<br/><br/>
 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 
