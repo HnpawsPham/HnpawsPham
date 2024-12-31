@@ -1,9 +1,9 @@
-❤🎧🎶💻 <br/><br/>
+❤🎧🎶☕⌨️💻 <br/><br/>
 
-- 🏫 Studying: at Trinh Hoai Duc High School
+- 🏫 Studying: Trinh Hoai Duc High School
 - 📈 Currently learning: CP & NodeJS & Data Analytics
-- 🌇 Online: midnight
-- 💓 Started coding: around Sep 2022<br/><br/>
+- 🌌 Online: midnight
+- 🤓 Started coding: around Sep 2022<br/><br/>
 ---------------------------------------------------------------------------------------------------------------------------
 <br/>
 
