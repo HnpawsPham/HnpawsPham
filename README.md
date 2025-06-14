@@ -9,7 +9,7 @@
 
 # 🌟 My GitHub Stats 🌟
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HnpawsPham&langs_count=10&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HnpawsPham&langs_count=20&layout=compact&theme=dark&hide_border=false)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HnpawsPham&count_private=true&show_icons=true&theme=dark&hide_title=true)
 
 ---
