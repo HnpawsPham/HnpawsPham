@@ -1,7 +1,7 @@
 # ✨ Me ✨
 
 - 🏫 **Studying**: Trinh Hoai Duc High School
-- 📈 **Currently learning**: CP & AI
+- 📈 **Currently learning**: CP
 - 🌌 **Online**: Midnight
 - 🤓 **Started coding**: Around Sep 2022
 
