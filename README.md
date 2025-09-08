@@ -26,6 +26,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define el "\n"
+#define vi vector<int>
 
 int main() {
     cout << "Hello, C++ World <3" << el;
