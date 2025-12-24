@@ -24,6 +24,7 @@
 
 ```cpp
 #include <bits/stdc++.h>
+using ll = long long;
 using namespace std;
 #define el "\n"
 #define vi vector<int>
