@@ -1,20 +1,27 @@
 # ✨ Me ✨
 
 - 🏫 **Studying**: Trinh Hoai Duc High School
-- 📈 **Currently learning**: CP, Backend
+- 📈 **Currently learning**: CP, IoT
 - 🌌 **Online**: Midnight
 - 🤓 **Started coding**: Around Sep 2022
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hnpaws;Phạm+Đinh+Gia+Hân;XX/XX/2009+♐&center=true&size=30&color=fffff">
+  </a>
+</h1>
 
 ---
 
 # 🌟 My GitHub Stats 🌟
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HnpawsPham&langs_count=20&layout=compact&theme=dark&hide_border=false)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HnpawsPham&count_private=true&show_icons=true&theme=dark&hide_title=true)
-
+<h4>💻 Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,js,html,css,cs,python,mysql" />
+      </p
+          
 ---
 
-# 🏆 LeetCode Stats 🏆
+# 🏆 LeetCode 🏆
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hnpawspham?theme=dark&skills=true)
 
